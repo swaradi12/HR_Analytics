@@ -1,1 +1,1 @@
-# HR_Analytics
+Delving into the world of human resources, with a keen eye on data analysis to optimize talent management and organizational performance. Preparing dashboards showing employee wellness, demographic, turnover analysis (attrition metrics)
